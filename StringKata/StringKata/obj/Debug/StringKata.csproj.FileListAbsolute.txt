@@ -1,0 +1,10 @@
+C:\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\bin\Debug\StringKata.dll
+C:\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\bin\Debug\StringKata.pdb
+C:\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\obj\Debug\StringKata.dll
+C:\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\obj\Debug\StringKata.pdb
+C:\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\obj\Debug\StringKata.csprojResolveAssemblyReference.cache
+\\musa\c$\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\bin\Debug\StringKata.dll
+\\musa\c$\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\bin\Debug\StringKata.pdb
+\\musa\c$\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\obj\Debug\StringKata.csprojResolveAssemblyReference.cache
+\\musa\c$\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\obj\Debug\StringKata.dll
+\\musa\c$\Users\Ryhila\Documents\Visual Studio 2015\Projects\StringKata\StringKata\obj\Debug\StringKata.pdb
